@@ -1,1 +1,6 @@
-/Users/aniketkulkarni/Desktop/workspace/IntelliJ/JersyRestCRUD/src/main/java/com/example/JersyRestCRUD/JersyRestCrudApplication.java
+/Users/aniketkulkarni/Desktop/workspace/IntelliJ/JersyRestCrudProject/src/main/java/com/example/controller/UserResource.java
+/Users/aniketkulkarni/Desktop/workspace/IntelliJ/JersyRestCrudProject/src/main/java/com/example/exception/ResourceNotFoundException.java
+/Users/aniketkulkarni/Desktop/workspace/IntelliJ/JersyRestCrudProject/src/main/java/com/example/JersyRestCrudApplication.java
+/Users/aniketkulkarni/Desktop/workspace/IntelliJ/JersyRestCrudProject/src/main/java/com/example/config/JerseyConfiguration.java
+/Users/aniketkulkarni/Desktop/workspace/IntelliJ/JersyRestCrudProject/src/main/java/com/example/dao/UserRepository.java
+/Users/aniketkulkarni/Desktop/workspace/IntelliJ/JersyRestCrudProject/src/main/java/com/example/model/User.java

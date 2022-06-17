@@ -1,1 +1,6 @@
-com/example/JersyRestCRUD/JersyRestCrudApplication.class
+com/example/controller/UserResource.class
+com/example/model/User.class
+com/example/JersyRestCrudApplication.class
+com/example/config/JerseyConfiguration.class
+com/example/dao/UserRepository.class
+com/example/exception/ResourceNotFoundException.class
